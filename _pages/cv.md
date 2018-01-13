@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Computer Science & Software Engineering, Maynooth University, 2015
 * M.S. in Advanced Computing, University of Bristol, 2016
-* Ph.D in Wireless MAC Layer Optimisation, Maynooth University, 2020 (expected)
+* Ph.D in Wireless Network Layer Optimisation, Maynooth University, 2020 (expected)
 
 Work experience
 ======
