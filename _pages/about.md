@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is Joe Finnegan's home on the web!
+This is Joe Finnegan's home on the web! If something looks odd on here, that's because this site is currently under construction.
