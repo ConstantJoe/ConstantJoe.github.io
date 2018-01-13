@@ -1,5 +1,5 @@
 ---
-title: "CS380 Multimedia & Mobile Communications"
+title: "CS380 Multimedia & Mobile Communications (Head Demonstrator)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2017-multimedia-teaching

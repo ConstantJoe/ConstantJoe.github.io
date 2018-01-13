@@ -1,5 +1,5 @@
 ---
-title: "Software Intern Co-Supervisor"
+title: "Software Intern (Co-Supervisor)"
 collection: teaching
 type: "supervisor"
 permalink: /teaching/2017-software-intern-supervisor

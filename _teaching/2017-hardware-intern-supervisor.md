@@ -1,5 +1,5 @@
 ---
-title: "Hardware Intern Co-Supervisor"
+title: "Hardware Intern (Co-Supervisor)"
 collection: teaching
 type: "supervisor"
 permalink: /teaching/2017-hardware-intern-supervisor

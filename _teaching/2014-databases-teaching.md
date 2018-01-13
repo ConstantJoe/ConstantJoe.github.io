@@ -1,5 +1,5 @@
 ---
-title: "CS130 Databases"
+title: "CS130 Databases (Demonstrator)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-databases-teaching
