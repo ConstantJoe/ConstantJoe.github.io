@@ -1,5 +1,5 @@
 ---
-title: "Computer Networks"
+title: "CS320 Computer Networks"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2017-networks-teaching
