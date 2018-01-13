@@ -1,7 +1,7 @@
 ---
 title: "CS130 Databases (Demonstrator)"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate Course"
 permalink: /teaching/2014-databases-teaching
 venue: "Maynooth University, Department of Computer Science"
 date: 2014-09-01

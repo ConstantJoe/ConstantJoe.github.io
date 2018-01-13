@@ -1,7 +1,7 @@
 ---
 title: "CS320 Computer Networks (Demonstrator)"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate Course"
 permalink: /teaching/2017-networks-teaching
 venue: "Maynooth University, Department of Computer Science"
 date: 2017-09-01

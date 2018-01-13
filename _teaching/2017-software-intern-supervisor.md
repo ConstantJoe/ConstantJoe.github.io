@@ -1,7 +1,7 @@
 ---
 title: "Software Intern (Co-Supervisor)"
 collection: teaching
-type: "supervisor"
+type: "Supervision"
 permalink: /teaching/2017-software-intern-supervisor
 venue: "Maynooth University, Department of Electronic Engineering"
 date: 2017-06-01
