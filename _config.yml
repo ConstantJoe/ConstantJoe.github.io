@@ -80,9 +80,9 @@ analytics:
 author:
   name             : "Joseph Finnegan"
   avatar           : "profile.png"
-  bio              : "PhD Student at the CONNECT Centre of Maynooth University, working on heterogeneous networks and the MAC layer of LPWANs."
+  bio              : "PhD Student at the CONNECT Centre of Maynooth University, working on heterogeneous networks and the network layer of LPWANs."
   location         : "Kildare, Ireland"
-  employer         :
+  employer         : "https://connectcentre.ie/people/joseph-finegan/"
   googlescholar    : 
   email            :
   uri              :
@@ -97,8 +97,8 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/joseph-finnegan-51b5b469"
+  orcid            : "https://orcid.org/0000-0002-8549-8607"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
