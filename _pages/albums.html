@@ -14,6 +14,11 @@ This is a testing page!!!
 d3.csv("Albums-test.csv", function(d) {
   console.log(d[0].Album);
   console.log(d.length);
+ 
+  var i;
+  for(i=0; i<d.length; i++){
+     console.log(d[0].Album); 
+  }
 });
 
 </script>
