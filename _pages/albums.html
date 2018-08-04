@@ -12,9 +12,11 @@ This is a testing page!!
 <script>
 
 d3.csv("Albums-test.csv", function(d) {
-  for(var i=0; i<d.length; i++)
+  var i;
+  for(i=0; i<d.length; i++)
   {
-     console.log(d[i]);
+     console.log(d[i].Album);
+     //console.log(d[i]);
   }
   //console.log(d[0].Album);
 });
