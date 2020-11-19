@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is Joe Finnegan's home on the web! If something looks odd on here, that's because this site is currently under construction.
+Hello, welcome to my personal website! I work in embedded development and R&D for Aloxy in Antwerp, Belgium. I am coming to the end of my PhD in wireless communications from Maynooth University in Ireland. My research focuses on enabling scalable and energy efficient LPWAN networks, in particular LoRaWAN, and have extensive experience with ns-3. My research interests include next generation Wi-Fi, low power IoT networks, energy harvesting approaches for LPWAN, and the simulation of wireless networks.
