@@ -11,11 +11,11 @@ author_profile: true
 <font size="6" color="green">Papers</font>
 <br/> 
 
-<b>[Exploring the Boundaries of Ambient RF Energy Harvesting with LoRaWAN](https://josephfinnegan.me/publication/2020-10-13-Exploring-the-Boundaries-of-Ambient-RF-Energy-Harvesting-with-LoRaWAN)</b><br>
+<b>[Exploring the Boundaries of Ambient RF Energy Harvesting with LoRaWAN](https://constantjoe.github.io/publication/2020-10-13-Exploring-the-Boundaries-of-Ambient-RF-Energy-Harvesting-with-LoRaWAN)</b><br>
 <b>Joseph Finnegan</b>‚ Kyriaki Niotaki, Stephen Brown. <br>
 <i> IEEE Internet of Things Journal, 2020. </i>
 
-<b>[Lightweight Timeslot Scheduling Through Periodicity Detection for Increased Scalability of LoRaWAN](https://josephfinnegan.me/publication/2020-08-31-Lightweight-Timeslot-Scheduling-Through-Periodicity-Detection-for-Increased-Scalability-of-LoRaWAN.md)</b><br>
+<b>[Lightweight Timeslot Scheduling Through Periodicity Detection for Increased Scalability of LoRaWAN](/publication/2020-08-31-Lightweight-Timeslot-Scheduling-Through-Periodicity-Detection-for-Increased-Scalability-of-LoRaWAN.md)</b><br>
 <b>Joseph Finnegan</b>‚ Ronan Farrell, Stephen Brown. <br>
 <i> IEEE International Symposium on "A World of Wireless, Mobile and Multimedia Networks" (WoWMoM), 2020. </i>
 

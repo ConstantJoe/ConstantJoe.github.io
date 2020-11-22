@@ -80,10 +80,10 @@ analytics:
 author:
   name             : "Joseph Finnegan"
   avatar           : "profile.jpeg"
-  bio              : "PhD Student at the CONNECT Centre of Maynooth University, working on heterogeneous networks and the network layer of LPWANs."
-  location         : "Kildare, Ireland"
-  employer         : 
-  googlescholar    : 
+  bio              : "Embedded developer and R&D at Aloxy."
+  location         : "Antwerp, Belgium"
+  employer         : Aloxy
+  googlescholar    : https://scholar.google.com/citations?hl=en&user=UzkFV5UAAAAJ
   email            :
   uri              :
   bitbucket        :
