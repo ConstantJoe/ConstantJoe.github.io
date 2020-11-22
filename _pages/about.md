@@ -8,12 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-About me
-======
+I work in embedded development and R&D for Aloxy in Antwerp, Belgium, where we develop reliable IIoT solutions tailored to the needs of the process industry.
 
-I work in embedded development and R&D for Aloxy in Antwerp, Belgium, where we...
-
-. I am coming to the end of my PhD in wireless communications from Maynooth University in Ireland, where I was a member of the SFI-funded CONNECT Centre for Future Communications. I received my MSc. from the University of Bristol in the UK.
+I am coming to the end of my PhD in wireless communications from Maynooth University in Ireland, where I was a member of the SFI-funded CONNECT Centre for Future Communications. I received my MSc. from the University of Bristol in the UK.
 
 My research focuses on enabling scalable and energy efficient LPWAN networks, in particular LoRaWAN, and have extensive experience with ns-3. My research interests include next generation Wi-Fi, low power IoT networks, energy harvesting approaches for LPWAN, and the simulation of wireless networks.
 
