@@ -17,9 +17,9 @@ My research focuses on enabling scalable and energy efficient LPWAN networks, in
 Recent News
 ======
 
-- [January, 2020] I moved to Antwerp, Belgium.
+- [January, 2021] I moved to Antwerp, Belgium.
 
-- [January, 2020] I passed my thesis defence!
+- [January, 2021] I passed my thesis defence!
 
 - [November, 2020] I started working remotely for Aloxy in Antwerp, Belgium.
 
