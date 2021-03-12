@@ -17,15 +17,19 @@ My research focuses on enabling scalable and energy efficient LPWAN networks, in
 Recent News
 ======
 
-- November, 2020. I started working for Aloxy in Antwerp, Belgium.
+- [January, 2020] I moved to Antwerp, Belgium.
 
-- October, 2020. I handed in my PhD thesis!
+- [January, 2020] I passed my thesis defence!
 
-- October, 2020. Our paper, "Exploring the Boundaries of Ambient RF Energy Harvesting with LoRaWAN", was published in the IEEE Internet of Things Journal.
+- [November, 2020] I started working remotely for Aloxy in Antwerp, Belgium.
 
-- August, 2020. Our paper, "Lightweight Timeslot Scheduling Through Periodicity Detection for Increased Scalability of LoRaWAN", was presented at IEEE WoWMoM '2020.
+- [October, 2020] I handed in my PhD thesis!
 
-- March, 2020. Our paper, "Analysis and Enhancement of the LoRaWAN Adaptive Data Rate Scheme", was published in the IEEE Internet of Things Journal.
+- [October, 2020] Our paper, "Exploring the Boundaries of Ambient RF Energy Harvesting with LoRaWAN", was published in the IEEE Internet of Things Journal.
 
-- January, 2020. I began a research stay at the Universitat Oberta de Catalunya, working closely with Dr. M. Shahwaiz Afaqui in the lab of Dr. Xavier Vilajosana.
+- [August, 2020] Our paper, "Lightweight Timeslot Scheduling Through Periodicity Detection for Increased Scalability of LoRaWAN", was presented at IEEE WoWMoM '20.
+
+- [March, 2020] Our paper, "Analysis and Enhancement of the LoRaWAN Adaptive Data Rate Scheme", was published in the IEEE Internet of Things Journal.
+
+- [January, 2020] I began a research stay at the Universitat Oberta de Catalunya, working closely with Dr. M. Shahwaiz Afaqui in the lab of Dr. Xavier Vilajosana.
 
