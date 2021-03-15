@@ -3,7 +3,7 @@ title: "Evaluating the Scalability of LoRaWAN Gateways for Class B Communication
 collection: talks
 type: "Oral presentation"
 permalink: /talks/2018-paris
-venue: "EEE Conference on Standards for Communications and Networking (CSCN), Universite Paris Descartes"
-date: 2018-06-19
+venue: "IEEE Conference on Standards for Communications and Networking (CSCN), Universite Paris Descartes"
+date: 2018-10-30
 location: "Paris, France"
 ---
